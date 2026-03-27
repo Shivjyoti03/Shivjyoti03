@@ -6,8 +6,8 @@
 ---
 
 ## 🔹 About Me
-- 🐍 Python beginner
-- 🤖 Interested in AI & Autonomous Agents
+- 🐍 Python
+- 🤖 Interested in AIML & Autonomous Agents
 - 🔐 Exploring Cybersecurity & automation
 - 📚 Learning in public through GitHub
 
