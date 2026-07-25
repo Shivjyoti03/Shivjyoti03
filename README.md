@@ -1,6 +1,6 @@
 #  Hi there 👋 I'm Shiv 👨‍💻
 
-🚀 Beginner in **Python**, **AI Agents**, and **Cybersecurity**  
+🚀 **Python**, **AI Agents**, and **Cybersecurity**  
 🧠 Learning by building real projects step by step
 
 ---
